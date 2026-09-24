@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75c6b0ea-449f-4db2-85e3-cc68fd8a5b96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin/.env.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/public/static/js/session-storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/public/static/js/tool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/images/no_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/images/user_img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/scss/_variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/scss/common.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/scss/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/assets/scss/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/components/CommonAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/components/CommonHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/components/ECharts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/store/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/CategoryList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/OrderList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/ProductList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/src/views/UserList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/admin" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="28h5Wf1GbNYQYfHZ8rFCfTtqLCy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yjq.programmer.dao.my" />
+      <recent name="com.yjq.programmer.util" />
+      <recent name="com.yjq.programmer.exception" />
+      <recent name="com.yjq.programmer.controller.admin" />
+      <recent name="com.yjq.programmer.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_project\OnlineSupermarket\business\src\main\resources\mapper\my" />
+      <recent name="D:\idea_project\OnlineSupermarket\business\src\main\java\com\yjq\programmer\controller" />
+      <recent name="D:\idea_project\OnlineSupermarket\business\src\main\resources\upload\photo" />
+      <recent name="D:\idea_project\OnlineSupermarket\admin" />
+      <recent name="D:\idea_project\OnlineSupermarket\admin\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.admin">
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/business" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BookShopApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="business" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yjq.programmer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yjq.programmer.BookShopApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="admin" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/admin/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve-dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="npm.admin" />
+      <item itemvalue="Spring Boot.BookShopApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BookShopApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75c6b0ea-449f-4db2-85e3-cc68fd8a5b96" name="Default Changelist" comment="" />
+      <created>1651656009962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651656009962</updated>
+      <workItem from="1651656011101" duration="1448000" />
+      <workItem from="1651658972289" duration="2976000" />
+      <workItem from="1651673841467" duration="3742000" />
+      <workItem from="1651746528463" duration="11799000" />
+      <workItem from="1651808416191" duration="1218000" />
+      <workItem from="1651820180751" duration="5969000" />
+      <workItem from="1651909774764" duration="7200000" />
+      <workItem from="1651974321004" duration="765000" />
+      <workItem from="1651976222502" duration="586000" />
+      <workItem from="1651977287265" duration="23551000" />
+      <workItem from="1652086701075" duration="16579000" />
+      <workItem from="1652159111250" duration="747000" />
+      <workItem from="1652160356251" duration="9219000" />
+      <workItem from="1652233938824" duration="632000" />
+      <workItem from="1652410602719" duration="11699000" />
+      <workItem from="1652489726265" duration="5748000" />
+      <workItem from="1653100313055" duration="1709000" />
+      <workItem from="1653395511741" duration="293000" />
+      <workItem from="1653396642773" duration="5152000" />
+      <workItem from="1653629791017" duration="199000" />
+      <workItem from="1653629993856" duration="8772000" />
+      <workItem from="1653655470317" duration="2071000" />
+      <workItem from="1676192332203" duration="1457000" />
+      <workItem from="1771847931504" duration="1318000" />
+      <workItem from="1771849337420" duration="2178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="174" key="#Inspections" timestamp="1771848662275">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Inspections/0.0.1920.1032@0.0.1920.1032" timestamp="1771848662275" />
+    <state x="552" y="174" key="#Notifications" timestamp="1771848357632">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="174" key="#Notifications/0.0.1920.1032@0.0.1920.1032" timestamp="1771848357632" />
+    <state x="656" y="246" key="#Project_Structure" timestamp="1771848792433">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="656" y="246" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1771848792433" />
+    <state x="-32" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1771849619734">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-32" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1771849619734" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1771848789494">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1771848789494" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.1.center" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.1.left" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="279" key="GridCell.Tab.1.right" timestamp="1771852053915">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1771852053915" />
+    <state width="1877" height="344" key="GridCell.Tab.2.bottom" timestamp="1771849260777">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1771849260777" />
+    <state width="1877" height="344" key="GridCell.Tab.2.center" timestamp="1771849260777">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1771849260777" />
+    <state width="1877" height="344" key="GridCell.Tab.2.left" timestamp="1771849260777">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1771849260777" />
+    <state width="1877" height="344" key="GridCell.Tab.2.right" timestamp="1771849260777">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1771849260777" />
+    <state x="461" y="158" key="SettingsEditor" timestamp="1771848808419">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="461" y="158" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1771848808419" />
+    <state x="640" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1771849351266">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="640" y="340" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1771849351266" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BookShopApp$BookShopApp.ic" NAME="BookShopApp Coverage Results" MODIFIED="1771849003900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yjq.programmer.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar",
+    "u-tabbar-item": "/uview-ui/components/u-tabbar-item/u-tabbar-item"
+  }
+}

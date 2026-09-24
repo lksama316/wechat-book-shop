@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="567a8470-caa7-4dd9-a2ed-4ddeb0d50cb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="28gJS9egwUyjxIcqgnsDTGUPDJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OnlineSupermarket/web" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\HBuilderProjects\BookShopApp\web\static\swiper" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="567a8470-caa7-4dd9-a2ed-4ddeb0d50cb2" name="Default Changelist" comment="" />
+      <created>1651632292717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651632292717</updated>
+      <workItem from="1651632294623" duration="7701000" />
+      <workItem from="1651755633749" duration="538000" />
+      <workItem from="1651808309708" duration="8290000" />
+      <workItem from="1651888766560" duration="15000" />
+      <workItem from="1651909817728" duration="14432000" />
+      <workItem from="1651974742755" duration="324000" />
+      <workItem from="1651976204135" duration="596000" />
+      <workItem from="1651977279036" duration="27696000" />
+      <workItem from="1652086876384" duration="24180000" />
+      <workItem from="1652174459165" duration="8000" />
+      <workItem from="1652410217801" duration="4285000" />
+      <workItem from="1652419984402" duration="10736000" />
+      <workItem from="1652432760521" duration="3570000" />
+      <workItem from="1652514650931" duration="2193000" />
+      <workItem from="1652663272507" duration="30000" />
+      <workItem from="1653395536683" duration="82000" />
+      <workItem from="1653396651268" duration="1231000" />
+      <workItem from="1653464365395" duration="686000" />
+      <workItem from="1653628625093" duration="4372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="185" key="FileChooserDialogImpl" timestamp="1653640751328">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="501" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1653640751328" />
+    <state x="401" y="162" width="676" height="534" key="find.popup" timestamp="1653640478778">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="401" y="162" width="676" height="534" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1653640478778" />
+  </component>
+</project>

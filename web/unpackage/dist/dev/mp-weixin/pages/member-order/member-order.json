@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-tabs": "/uview-ui/components/u-tabs/u-tabs",
+    "u-line": "/uview-ui/components/u-line/u-line",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-empty": "/uview-ui/components/u-empty/u-empty"
+  }
+}

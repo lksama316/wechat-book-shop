@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "订单结算",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-line": "/uview-ui/components/u-line/u-line",
+    "u--text": "/uview-ui/components/u--text/u--text",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "u--input": "/uview-ui/components/u--input/u--input"
+  }
+}

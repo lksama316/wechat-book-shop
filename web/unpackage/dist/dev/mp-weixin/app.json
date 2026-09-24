@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/member-order/member-order",
+    "pages/member-info/member-info",
+    "pages/order/order",
+    "pages/product-detail/product-detail",
+    "pages/register/register",
+    "pages/login/login",
+    "pages/member/member",
+    "pages/cart/cart",
+    "pages/product/product"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "掌上图书商城APP",
+    "navigationBarBackgroundColor": "#BA55D3",
+    "backgroundColor": "#F8F8F8",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/home.png",
+        "selectedIconPath": "static/tabs/home-active.png"
+      },
+      {
+        "text": "购物车",
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/tabs/cart.png",
+        "selectedIconPath": "static/tabs/cart-active.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/member/member",
+        "iconPath": "static/tabs/member.png",
+        "selectedIconPath": "static/tabs/member-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
